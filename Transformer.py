@@ -21,6 +21,7 @@ prohibited and subject to being investigated as a GT honor code violation.
 """
 
 import numpy as np
+import pandas as pd
 
 import torch
 from torch import nn
